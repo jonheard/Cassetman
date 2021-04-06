@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Asset)">902e68222f5320107171a1fef699b65d</button>
+        <item_parameter display_value="Asset residual">d02e68222f5320107171a1fef699b63f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 14:31:12</sys_created_on>
+        <sys_id>602ea8222f5320107171a1fef699b60e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d02e68222f5320107171a1fef699b63f</sys_name>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_602ea8222f5320107171a1fef699b60e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 14:31:12</sys_updated_on>
+        <ui_parameter display_value="Residual value">682e68222f5320107171a1fef699b6eb</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by>model</group_by>
+        <instance_relative_url_qc/>
+        <name>All Assets</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 16:40:55</sys_created_on>
+        <sys_id>f8dbc5222fd320107171a1fef699b6a1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>All Assets</sys_name>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_update_name>sys_sg_data_item_f8dbc5222fd320107171a1fef699b6a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 16:44:24</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=f8dbc5222fd320107171a1fef699b6a1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</application>
+        <file_path/>
+        <instance_id>5e0e7ed8db341c1ce03ad7c8f49619db</instance_id>
+        <instance_name>dev103087</instance_name>
+        <name>sys_sg_data_item_f8dbc5222fd320107171a1fef699b6a1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by>model</group_by><instance_relative_url_qc/><name>All Assets</name><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-06 16:40:55</sys_created_on><sys_id>f8dbc5222fd320107171a1fef699b6a1</sys_id><sys_mod_count>3</sys_mod_count><sys_name>All Assets</sys_name><sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package><sys_policy/><sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope><sys_update_name>sys_sg_data_item_f8dbc5222fd320107171a1fef699b6a1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-06 16:44:24</sys_updated_on><table>alm_asset</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=f8dbc5222fd320107171a1fef699b6a1"/></record_update>]]></payload>
+        <payload_hash>-1211931575</payload_hash>
+        <record_name>All Assets</record_name>
+        <reverted_from/>
+        <source>0bedacee2f1320107171a1fef699b651</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 16:44:24</sys_created_on>
+        <sys_id>3b9c05622fd320107171a1fef699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178a81225740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 16:44:24</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>b39c05629bd3201038e0c0260dcd0802</update_guid>
+        <update_guid_history>b39c05629bd3201038e0c0260dcd0802:-1211931575,e20cc922c2d3201019df160ca6d70698:-525466849,f00cc522a7d32010209d8bd5b65b9998:-638193730,bcdbc522c2d3201046a9ab98e0989ea3:46865907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 17:21:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>754ecf391b004058a456a57ee9dd2f44</sys_id>
+        <sys_metadata>f8dbc5222fd320107171a1fef699b6a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Assets</sys_name>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_scope_delete display_value="">4da266b704e14fd2930f6b5a6a4110e4</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_f8dbc5222fd320107171a1fef699b6a1</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_f8dbc5222fd320107171a1fef699b6a1">3b9c05622fd320107171a1fef699b602</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 17:21:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

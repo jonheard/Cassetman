@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_category_m2m_filter_condition">
+    <sys_sg_filter_category_m2m_filter_condition action="INSERT_OR_UPDATE">
+        <filter_category display_value="All known assets Filter Category">7dd69dea2fd320107171a1fef699b6f4</filter_category>
+        <filter_condition display_value="All known assets stockroom filter condition">bb675d2e2fd320107171a1fef699b6ed</filter_condition>
+        <order>40</order>
+        <sys_class_name>sys_sg_filter_category_m2m_filter_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 17:31:39</sys_created_on>
+        <sys_id>00775d2e2fd320107171a1fef699b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_update_name>sys_sg_filter_category_m2m_filter_condition_00775d2e2fd320107171a1fef699b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 17:31:39</sys_updated_on>
+    </sys_sg_filter_category_m2m_filter_condition>
+</record_update>

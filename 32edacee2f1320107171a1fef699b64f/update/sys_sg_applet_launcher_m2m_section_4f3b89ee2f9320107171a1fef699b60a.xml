@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Contender Asset Management">a71e60222f5320107171a1fef699b6df</applet_launcher>
+        <order>20</order>
+        <section display_value="Updated today">073bc5ee2f9320107171a1fef699b6cb</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 16:38:21</sys_created_on>
+        <sys_id>4f3b89ee2f9320107171a1fef699b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_4f3b89ee2f9320107171a1fef699b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 16:38:21</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

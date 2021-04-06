@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Asset)">902e68222f5320107171a1fef699b65d</button>
+        <item_parameter display_value="Asset department">c02e28222f5320107171a1fef699b6f9</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 14:31:13</sys_created_on>
+        <sys_id>3c2ea8222f5320107171a1fef699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c02e28222f5320107171a1fef699b6f9</sys_name>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3c2ea8222f5320107171a1fef699b661</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 14:31:13</sys_updated_on>
+        <ui_parameter display_value="Department">e02e68222f5320107171a1fef699b67e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

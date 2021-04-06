@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e905","Name":"icon-QR-Code","FontColor":"#48C891","BackgroundColor":"#48C891"}</icon>
+        <name>icon-QR-Code</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 14:50:06</sys_created_on>
+        <sys_id>9d7270a62f5320107171a1fef699b6a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>icon-QR-Code</sys_name>
+        <sys_package display_value="Contender Asset Management" source="x_401772_cassetman">32edacee2f1320107171a1fef699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contender Asset Management">32edacee2f1320107171a1fef699b64f</sys_scope>
+        <sys_update_name>sys_sg_icon_9d7270a62f5320107171a1fef699b6a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 16:22:53</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
